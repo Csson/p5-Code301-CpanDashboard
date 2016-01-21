@@ -1,0 +1,7 @@
+/Code301-CpanDashboard-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
